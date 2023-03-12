@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProductivityApp</string>
+    <string name="starter_page_name">𝙰𝚂𝙱</string>
+    <string name="image_author"><a href="https://www.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_5698344.htm#query=programmer%20desk&amp;position=3&amp;from_view=search&amp;track=ais">Image by pressfoto</a> on Freepik</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="navigation_button1">Morning</string>
+    <string name="navigation_button2">AfterNoon</string>
+    <string name="navigation_button3">Evening</string>
+    <string name="navigation_button4">Night</string>
+
+</resources>
